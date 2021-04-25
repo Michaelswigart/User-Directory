@@ -157,4 +157,3 @@ class UserContainer extends React.Component {
 }
 
 export default UserContainer;
-© 2021 GitHub, Inc.
